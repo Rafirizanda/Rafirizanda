@@ -25,18 +25,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🛒 **Marketing Analytics Dashboard**  
-  Interactive dashboard analyzing revenue, MoM growth, and ROI → [GitHub Repo](https://github.com/Rafirizanda/Marketing-Analytics-Dashboard)
-
-- 🥭 **Durian Variety Classification (CNN - EfficientNetB0)**  
-  Deep learning model classifying 7 durian varieties with 99% accuracy → [GitHub Repo](#)
-
-- 🏃 **EDA Marathon Project**  
-  Exploratory Data Analysis on Trail Du Ventoux 46 km race dataset → [GitHub Repo](#)
-
----
 
 ## 🌍 Connect with Me
 
